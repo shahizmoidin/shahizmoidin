@@ -1,4 +1,6 @@
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <span style="color: #ff6347; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Shahiz Moidin</span></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Hey+Everyone!+👋;+I'm+Shahiz+Moidin;" />
+</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
