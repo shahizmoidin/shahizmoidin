@@ -47,9 +47,7 @@
 <h3 align="left" style="color:#FF6347;">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
 </p>
 
 <h3 align="left" style="color:#FF6347;">🛠️ My Toolkit:</h3>
